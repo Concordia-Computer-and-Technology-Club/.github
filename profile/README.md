@@ -1,5 +1,5 @@
 
-<img src="https://img.search.brave.com/atxrHO9LdQXlbWhOkVQbMgrLeKOpSF7S-OPAC1nFuJY/rs:fit:400:400:1/g:ce/aHR0cHM6Ly9kMnE3/OWl1N3k3NDhqei5j/bG91ZGZyb250Lm5l/dC9zL19zcXVhcmVs/b2dvLzg1NjU3OTNi/MDljZTNhOTk0OWI3/OWI4NDZiNjdlOGFi" width=30 style="float: left; margin-right: 1em;">
+<img src="https://img.search.brave.com/atxrHO9LdQXlbWhOkVQbMgrLeKOpSF7S-OPAC1nFuJY/rs:fit:400:400:1/g:ce/aHR0cHM6Ly9kMnE3/OWl1N3k3NDhqei5j/bG91ZGZyb250Lm5l/dC9zL19zcXVhcmVs/b2dvLzg1NjU3OTNi/MDljZTNhOTk0OWI3/OWI4NDZiNjdlOGFi" width=50>
 
 # Concordia Computer and Technology Club
 
